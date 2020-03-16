@@ -4,6 +4,7 @@
 #include <tuple>
 #include <random>
 
+//https://ja.wikipedia.org/wiki/ブロックソート
 //High order Poor BlockSorting...
 
 template<class T>
